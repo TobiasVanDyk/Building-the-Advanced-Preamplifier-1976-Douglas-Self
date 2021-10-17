@@ -5,9 +5,9 @@ Douglas Self's audio design books are also recommended on Github: [**How to lear
 This is the most musically sounding preamp I have built. The photograph shows the two normalization and tone control PCB's constructed in the middle 1980's, re-housed in a recent (partially) 3d-printed, case. The input level control is at the back of the case. 
 
 <p align="left">
-<img src="DSelfPreamp1.jpg" width="250" />  
-<img src="DSelfPreamp.jpg" width="350" />   
-<img src="pcb-layouts.jpg" width="250" />  	
+<img src="DSelfPreamp1.jpg" width="240" />  
+<img src="DSelfPreamp.jpg" width="340" />   
+<img src="pcb-layouts.jpg" width="240" />  	
 </p>
 	
 Listening during the past year (2020/2021) to this preamp driving a linear-PSU-powered class-D-amp prompted the construction of a second preamp - the unpopulated PCBs have been made and the components obtained. More details are in the [AdvPreAmp2021Build](AdvPreAmp2021Build) folder including the Fritzing PCB layout files. (No, it is not cool to have to create a schematic, if all that you want is a PCB based on a perfectly good schematic that you already have.) An old trick that I use to make the PCB photomasks is to laserprint on normal white paper, rub some sunflower oil over the non-toner side, and then let it dry for 24 hours.
