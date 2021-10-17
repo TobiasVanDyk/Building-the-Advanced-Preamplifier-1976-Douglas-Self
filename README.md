@@ -1,7 +1,6 @@
 Copyright 1976 November Wireless World An Advanced Preamplifier by [**Douglas Self**](http://www.douglas-self.com/ampins/library/ampartew.htm)
 
-Although Douglas Self is perhaps better known amongst those of a certain age, two of his audio design books are recommended right here on Github: 
-[**How to learn modern electronics**](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
+Douglas Self's audio design books are also recommended on Github: [**How to learn modern electronics**](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
 
 This is the most musically sounding preamp I have built. The photograph shows the two normalization and tone control PCB's constructed in the middle 1980's, re-housed in a recent (partially) 3d-printed, case. The input level control is at the back of the case. 
 
@@ -25,4 +24,4 @@ The Preamp electronics have been completed - only the case is left to make or pr
 <img src="AdvPreAmp2021Build/Completed2.jpg" width="350" />  
 </p>
 
-This will be almost half the size of the 1980's based preamp, and puzzlingly it has a distinctly different sound (but neither better nor worse), than the older preamp. I must still investigate this....
+This turned out to be almost half the size of the 1980's based preamp, and puzzlingly it has a distinctly different sound (but neither better nor worse), than the older preamp. 
