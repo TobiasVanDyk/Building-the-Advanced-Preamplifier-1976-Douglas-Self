@@ -1,0 +1,62 @@
+BOM: Normalization Amp and Tone Control Amp only
+------------------------------------------------
+Tr4  5  6  13 14 15  are BCY71  PNP
+Tr7  8  9  16 17 18  are MPSA06 NPN
+Tr10 11 12 19 20 21  are MPSA56 PNP
+MPSA56 x 12
+MPSA06 x 12
+BCY71 (BC560C) x 12
+Note: 
+1. MPSA06 and MPSA56 are still manufactured
+MPSA56 https://www.mantech.co.za/ProductInfo.aspx?Item=14M6921
+MPSA06 https://www.mantech.co.za/ProductInfo.aspx?Item=14M6920
+2. BCY71 can be substituted with BC560C
+BC560C https://www.mantech.co.za/ProductInfo.aspx?Item=14M0390
+3. For Disc Imput Amp add BCY71 (BC560C) x 6 
+   And resistors/capacitors as per circuit diagram
+--------------------------------------------------------
+220 x 2
+330 x 4
+560 x 2
+910 x 2
+1k x 8
+2k7 x 4
+4k7 x 2
+5k6 x 2
+6k8 x 6
+8k2 x 4 1/2 W
+10k x 4
+12k x 8
+15k x 4
+18k x 4
+22k x 6
+47k x 4
+100k x 4
+180k x 2
+270k x 4
+820k x 2
+-----------------
+25k dual log x 2
+25k dual lin x 1
+100k dual lin x 1
+-----------------
+15pF x 2
+30pF x 2
+100pF x 2
+150pF x 2
+10n x 4
+3n3 x 4
+1n8 x 4
+47n x 4
+100n x 2
+470n x 2
+3uF x 2
+22uF 16v electrolytic x 2
+--------------------------
+PSU:
+18-0-18 volt 15VA toroidal transformwr RSPro 671-8928 https://za.rs-online.com/web/p/toroidal-transformers/6718928/ (1985 re-build)
+15-0-15 volt 15VA toroidal transformwr RSPro-671-9069 https://za.rs-online.com/web/p/toroidal-transformers/6719069/ (2021 new build)
+4700uF 35v x 2 
+400v 2A bridge rectifier
+
+
