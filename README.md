@@ -10,7 +10,7 @@ This is the most musically sounding preamp I have built. The photograph shows th
 <img src="pcb-layouts.jpg" width="240" />  	
 </p>
 	
-Listening during the past year (2020/2021) to this preamp driving a linear-PSU-powered class-D-amp prompted the construction of a second preamp - the unpopulated PCBs have been made and the components obtained. More details are in the [AdvPreAmp2021Build](AdvPreAmp2021Build) folder including the Fritzing PCB layout files. (No, it is not cool to have to create a schematic, if all that you want is a PCB based on a perfectly good schematic that you already have.) An old trick that I use to make the PCB photomasks is to laserprint on normal white paper, rub some sunflower oil over the non-toner side, and then let it dry for 24 hours.
+Listening during the past year (2020/2021) to this preamp driving a linear-PSU-powered class-D-amp prompted the construction of a second preamp - the unpopulated PCBs have been made and the components obtained. More details are in the [AdvPreAmp2021Build](AdvPreAmp2021Build) folder including the Fritzing PCB layout files. (No, it is not cool to have to create a schematic, if all that you want is a PCB based on a perfectly good schematic that you already have. [**Note 1**](https://github.com/geedotk/CS42448_T4_TEST2) [**Note 2**](https://hackaday.io/project/2984-teensy-audio-library/log/187557-updated-cs42448-pcb-for-teensy-4x)) An old trick that I use to make the PCB photomasks is to laserprint on normal white paper, rub some sunflower oil over the non-toner side, and then let it dry for 24 hours.
 
 <p align="left">
 <img src="AdvPreAmp2021Build/pcb1.jpg" width="250" />  
